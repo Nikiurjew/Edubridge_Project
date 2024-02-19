@@ -1,0 +1,46 @@
+tbody, td, tfoot, th, thead, tr {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0px;
+}
+.centered {
+    display: flex;
+    justify-content: center;
+}
+.information {
+    width: 400px;
+}
+.register-tab {
+    width: 40%;
+   margin: auto;
+    box-shadow: rgba(68, 68, 69, 0.28) 0px 4px 7px 12px;
+    padding: 20px;
+    background-color: white;
+  font-size: 18px;
+    align-items: center;
+}
+input{
+    width: 300px;
+}
+textarea{
+    width: 300px;
+    height: 200px;
+}
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px #b0acac;
+}
+table tr td{
+    padding: 10px
+}
+body{
+    background-image: url("../../../../assets/images/3.jpg");
+    height: auto;
+
+    /* Body styles */
+    font-family: Arial, sans-serif;
+  
+    margin-top: -40px;
+    padding: 0;
+}

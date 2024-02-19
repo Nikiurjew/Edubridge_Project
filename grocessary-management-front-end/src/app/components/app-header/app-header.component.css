@@ -1,0 +1,44 @@
+.main{
+    display: flex;
+    /* justify-content: space-between; */
+    height: 60px;
+    background-color: white;
+    align-items: center;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.main h2{
+  color: rgb(77, 239, 204);
+  
+   font-size: 30px;
+   font-family: 'Courier New', Courier, monospace;
+   
+   
+}
+
+.main > .selected {
+    /* background: maroon; */
+    display: flex;
+    height: 100%;
+    align-items: center;
+    color: rgb(25, 52, 104);
+   
+}
+.main img {
+    height: 3em;
+    width: 200px;
+}
+.main div{
+    padding: 60px;
+    cursor: pointer;
+ 
+}
+.sign-up{
+    color:blue;
+    cursor: pointer;
+}
+.main{
+    color: orange;
+    
+}

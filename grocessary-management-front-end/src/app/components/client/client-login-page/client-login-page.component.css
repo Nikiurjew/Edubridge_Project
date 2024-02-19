@@ -1,0 +1,37 @@
+.clienthome{
+    background-image: url("https://img.freepik.com/premium-vector/blurry-background-with-soft-texture_1159-747.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    padding-top: 10%;
+  }
+    
+  .client-login {
+     
+    border: 2px solid rgba(255,255,255,.2);
+    backdrop-filter: blur(5px);
+    box-shadow: 0 0 10px rgba(0,0,0, .2);
+      height: 380px;  
+      width: 40%;
+      margin: 0 auto;
+      box-shadow: 10cqmax;
+      text-align: center;
+      padding: 20px;
+      background-color: rgb(0,0,0);
+      background-color: rgba(0,0,0, .2);
+      
+  }
+  .btn{
+    background-color: orange;
+    border-radius: 20px;
+    width:150px;
+    height: 45px;
+    font-size: 25px;
+    margin-top: 32px;
+  
+  }
+.item.icon{
+    color: white;
+    line-height: 0.8;
+    z-index: -1;
+}
