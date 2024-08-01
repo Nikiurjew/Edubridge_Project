@@ -36,7 +36,7 @@ The Grocery Management System (Mega Mart) is a comprehensive full-stack applicat
 ### Backend
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/grocery-management-system.git
+   git clone https://github.com/nikiurjew/grocery-management-system.git
 2. Navigate to the backend directory:
    cd grocery-management-system/backend
 
